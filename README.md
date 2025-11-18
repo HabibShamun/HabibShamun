@@ -3,8 +3,8 @@
 
 
 
-(./<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/bf2978bc-9bdc-4ea3-b28f-b5687b8c0851" />
-)
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/bf2978bc-9bdc-4ea3-b28f-b5687b8c0851" />
+
 - 📫 How to reach me **habibsalehinshamun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
