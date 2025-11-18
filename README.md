@@ -2,8 +2,8 @@
 <h3 align="center">I'm a passionate frontend developer from Bangladesh.</h3>
 
 
-![Header](./<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f2e44053-c1fd-47c3-95ef-595dcc27a632" />
-)
+
+![Header](./github-header-banner (1).png)
 - 📫 How to reach me **habibsalehinshamun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
