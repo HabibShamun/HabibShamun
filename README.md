@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf2978bc-9bdc-4ea3-b28f-b5687b8c0851" width="100%" />
 </p>
-  
+
 <h1 align="center">Hi, I'm Habib Salehin Shamun 👋</h1>
 
 <p align="center">
@@ -11,19 +11,20 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning **Role Based Authorization**  
 - 🚀 I love building interactive, user-friendly web applications  
 - 🎯 My goal is to become a **full-stack JavaScript developer**  
-- 💡 Passionate about UI design, smooth functionalitis, animations, and clean code  
+- 💡 Passionate about UI design, smooth functionalities, animations, and clean code  
 - 📫 Reach me at: **habibsalehinshamun@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🚀 Frontend Technologies  
+### 🚀 Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
@@ -32,14 +33,14 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
-### 🛢 Backend & Databases  
+### 🛢 Backend & Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </p>
 
-### 🛠 Additional Tools  
+### 🛠 Additional Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
@@ -65,26 +66,21 @@
 
 ---
 
-## Github Contribution
-
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibshamun&show_icons=true&theme=default" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibshamun&layout=compact" height="170" />
-</p>
+## 🐍 Github Contribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibshamun" height="170" />
+  <img src="https://github.com/HabibShamun/HabibShamun/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
 
-## 📌 Featured Projects  
-Check out my highlighted repositories below 👇  
-(You can pin them from the **GitHub → Customize Profile** section)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habibshamun&show_icons=true&hide_title=false&count_private=true&theme=default&hide_border=false&card_width=300" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibshamun&layout=compact&theme=default&hide_border=false&card_width=300" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibshamun&theme=default&hide_border=false&card_width=300" width="300" />
+</p>
 
 ---
 
