@@ -88,7 +88,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibshamun&theme=default&hide_border=false" width="300" height="200"/>
     </td>
   </tr>
-</table>e>
+</table>
 </p>
 
 ---
