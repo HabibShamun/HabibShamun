@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+from+Bangladesh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+from+Bangladesh;Let+us+collaborate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Role Based Authorization**  
-- 🚀 I love building interactive, user-friendly web applications  
-- 🎯 My goal is to become a **full-stack JavaScript developer**  
-- 💡 Passionate about UI design, smooth functionalities, animations, and clean code  
+- 🌱 Currently learning **Role Based Authorization**  
+- 🚀 Passionate about building interactive, user-friendly web applications  
+- 🎯 Goal: Become a **full-stack JavaScript developer**  
+- 💡 Love UI design, smooth functionalities, animations, and clean code  
 - 📫 Reach me at: **habibsalehinshamun@gmail.com**
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -66,8 +66,7 @@
 
 ---
 
-## 🐍 Github Contribution
-
+## 🐍 GitHub Contribution
 <p align="center">
   <img src="https://github.com/HabibShamun/HabibShamun/blob/output/github-snake-dark.svg" />
 </p>
@@ -75,20 +74,19 @@
 ---
 
 ## 📊 GitHub Stats
-
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=habibshamun&show_icons=true&theme=default&hide_border=false" width="300" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibshamun&layout=compact&theme=default&hide_border=false" width="300" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibshamun&theme=default&hide_border=false" width="300" height="200"/>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=habibshamun&show_icons=true&theme=default&hide_border=false" width="100%"/></td>
+    <td></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=habibshamun&theme=default&hide_border=false" width="100%"/></td>
   </tr>
 </table>
+
+---
+
+## 📈 Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibshamun&layout=compact&theme=default&hide_border=false" width="50%" />
 </p>
 
 ---
