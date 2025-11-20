@@ -13,11 +13,10 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🌱 Currently learning **Role Based Authorization**  
-- 🚀 Passionate about building interactive, user-friendly web applications  
-- 🎯 Goal: Become a **full-stack JavaScript developer**  
-- 💡 Love UI design, smooth functionalities, animations, and clean code  
+- 🌱 Currently learning **Role-Based Authorization**
+- 🚀 Passionate about building interactive, user-friendly web apps  
+- 🎯 Goal: Become a **full-stack JavaScript developer**
+- ✨ Love UI design, animations, and clean maintainable code  
 - 📫 Reach me at: **habibsalehinshamun@gmail.com**
 
 ---
@@ -84,7 +83,7 @@
 
 ---
 
-## 📈 Languages Used
+## 📈 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibshamun&layout=compact&theme=default&hide_border=false" width="50%" />
 </p>
