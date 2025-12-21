@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Role-Based Authorization**
+- 🌱 Currently learning **AI/ML**
 - 🚀 Passionate about building interactive, user-friendly web apps  
 - 🎯 Goal: Become a **full-stack JavaScript developer**
 - ✨ Love UI design, animations, and clean maintainable code  
